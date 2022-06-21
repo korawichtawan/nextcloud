@@ -1,0 +1,10 @@
+//fill credentials
+region            = ""
+availability_zone = ""
+ami               = ""
+bucket_name       = ""
+database_name     = ""
+database_user     = ""
+database_pass     = ""
+admin_user        = ""
+admin_pass        = ""
