@@ -7,3 +7,5 @@ on Amazon web services using an infrastructure-as-code software called Terraform
 - scripts folder contains script files (db.sh and web.sh).
 - db.sh is script file for initiate database.
 - web.sh is script file nextcloud .
+# Demo
+watch demo of this project [click](https://youtu.be/DIkBTM985KE)
